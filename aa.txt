@@ -6,4 +6,9 @@ echo new skill
 This is a test text
 echo nice
 >>>>>>> debug
+<<<<<<< HEAD
 This is new 3 !!
+=======
+This is new 1!!
+This is new 2!!
+>>>>>>> other
